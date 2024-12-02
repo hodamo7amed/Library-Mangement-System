@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1698618515 source:c:\users\mohamed\documents\library management system\main.cpp
+	<stddef.h>
+	<iostream>
+	<string>
+	<stdexcept>
+	"Container.h"
+	"Book.h"
+	"Catalog.h"
+
+1698624997 c:\users\mohamed\documents\library management system\include\container.h
+	<iostream>
+	<Book.h>
+
+1698613606 c:\users\mohamed\documents\library management system\include\book.h
+	<iostream>
+
+1698616422 c:\users\mohamed\documents\library management system\include\catalog.h
+	<iostream>
+	<Book.h>
+	<Container.h>
+
+1698613606 source:c:\users\mohamed\documents\library management system\src\book.cpp
+	"Book.h"
+
